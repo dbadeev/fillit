@@ -9,7 +9,7 @@
 Для копирования файлов Проекта на локальный компьютер в папку *<your_dir_on_local_computer>* выполните:
 
 ```
-    $ git clone git@github.com:dbadeev/fillit_fin.git <your_dir_on_local_computer>
+    $ git clone git@github.com:dbadeev/fillit.git <your_dir_on_local_computer>
 ```
 
 ### Описание файлов
