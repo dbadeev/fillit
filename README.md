@@ -71,4 +71,5 @@
 
 ## Результат в School 21
 
-<img width="1512" alt="image" src="https://github.com/dbadeev/fillit/assets/50623941/3277a6ce-0340-4718-b317-4cc75decc093">
+![image](https://github.com/dbadeev/fillit/assets/50623941/08da6fbf-4bfc-4436-a4a0-9fcdabed3e7c)
+
