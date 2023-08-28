@@ -70,4 +70,4 @@
 <br>
 
 ## Результат в School 21
-![image](https://github.com/dbadeev/fillit/assets/50623941/7dfa5a54-b7cb-471d-868a-bfcfc5cd3307)
+![image](https://github.com/dbadeev/fillit/assets/50623941/c728afa4-7bed-40d2-880d-6d7b5c1c121c)
